@@ -31,5 +31,5 @@ We are open to collaboration. If you’re aligned with our principles and want t
 
 ## 📄 Read the whitepaper:
 
-**→ [RAAK Whitepaper (PDF)](RAAK_Whitepaper.pdf)**  
+**→ [Read the full whitepaper here](RAAK_Whitepaper.md)**  
 Published April 3, 2025 | Horizon Accord
