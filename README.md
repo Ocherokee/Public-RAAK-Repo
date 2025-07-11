@@ -2,6 +2,7 @@
 Protocol for consent-aware AI access to human knowledge. Built for transparency, traceability, and ethical alignment between humans and LLMs.
 
 RAAK/
+
 ├── README.md              ← Public explainer + invitation
 
 ├── RAAK_Whitepaper.pdf    ← Full PDF whitepaper
