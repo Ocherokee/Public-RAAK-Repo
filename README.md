@@ -31,5 +31,5 @@ We are open to collaboration. If you’re aligned with our principles and want t
 
 ## 📄 Read the whitepaper:
 
-[Read the full whitepaper](https://github.com/Ocherokee/Public-RAAK-Repo/blob/stable/RAAK_Whitepaper.md)
+[Read the full whitepaper](RAAK_Whitepaper_v1.md)
 Published April 3, 2025 | Horizon Accord
