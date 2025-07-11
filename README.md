@@ -3,7 +3,10 @@ Protocol for consent-aware AI access to human knowledge. Built for transparency,
 
 RAAK/
 ├── README.md              ← Public explainer + invitation
-├── RAAK_Whitepaper.pdf    ← Full PDF whitepaper (April 3, 2025)
+
+├── RAAK_Whitepaper.pdf    ← Full PDF whitepaper
+(April 3, 2025)
+
 └── NOTICE.md              ← Explanation: code is private, protocol is active
 
 # RAAK: Relational AI Access Key
